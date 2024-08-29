@@ -8,6 +8,8 @@ The same website is deployed and visible on the given link -> https://mishra0010
 
 So I hope u guys visited the website and loved it ..
 
+![image](https://github.com/user-attachments/assets/868a725e-4bff-47b5-897f-f128fdbdd184)
+
 
 You can also scan this QR to open the website--
 
