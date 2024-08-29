@@ -9,7 +9,7 @@ The same website is deployed and visible on the given link -> https://mishra0010
 So I hope u guys visited the website and loved it ..
 
 
-You can also scan this url to open the website--
+You can also scan this QR to open the website--
 
 
 
