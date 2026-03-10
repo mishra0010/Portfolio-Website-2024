@@ -10,10 +10,3 @@ So I hope u guys visited the website and loved it ..
 
 ![image](https://github.com/user-attachments/assets/868a725e-4bff-47b5-897f-f128fdbdd184)
 
-
-You can also scan this QR to open the website--
-
-
-
-
-![image](https://github.com/user-attachments/assets/21fffd29-0789-4636-bfac-984ca3156fab)
